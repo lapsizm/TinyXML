@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobilePhones>
+    <MobilePhone id="0" weight="1.5" is_broken="true" price="4000"/>
+    <MobilePhone id="1" weight="1.6000000000000001" is_broken="false" price="50004"/>
+    <MobilePhone id="2" weight="3.2000000000000002" is_broken="true" price="9003"/>
+</MobilePhones>
+
+<MobilePhones>
+    <MobilePhone id="0" weight="1" is_broken="true" price="1"/>
+</MobilePhones>

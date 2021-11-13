@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/header.hpp
+
+/home/kirill/lapsizm/repet/sources/source.cpp
+header.hpp
+/home/kirill/lapsizm/repet/sources/header.hpp
+

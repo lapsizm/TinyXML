@@ -1,0 +1,10 @@
+/snap/clion/169/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/kirill/lapsizm/repet
+-- [hunter] Calculating Toolchain-SHA1
+-- [hunter] Calculating Config-SHA1
+-- [hunter] HUNTER_ROOT: /home/kirill/.hunter
+-- [hunter] [ Hunter-ID: 95c47c9 | Toolchain-ID: 4162dcb | Config-ID: c8a7791 ]
+-- [hunter] GTEST_ROOT: /home/kirill/.hunter/_Base/95c47c9/4162dcb/c8a7791/Install (ver.: 1.11.0)
+-- [hunter] TINYXML2_ROOT: /home/kirill/.hunter/_Base/95c47c9/4162dcb/c8a7791/Install (ver.: 8.1.0)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/kirill/lapsizm/repet/cmake-build-debug
